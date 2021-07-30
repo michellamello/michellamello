@@ -1,6 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
-
-### Oi, eu sou o Michell! 👋
+<a href="https://github.com/michellamello"><img src="https://github.com/michellamello/michellamello/blob/main/header.png"/></a>
 
 Formado em administração de empresas e apaixonado por tecnologia desde sempre, resolvi transformar a paixão em carreira.
 Atualmente estou trabalhando em dois protótipos para possíveis clientes e participando de alguns bootcamps:
