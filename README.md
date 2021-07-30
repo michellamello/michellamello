@@ -65,6 +65,8 @@ Veja <a href="https://github.com/michellamello/curriculo/blob/main/curriculo-pt-
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </div>
 
+<hr>
+
 #### Minhas estatísticas:
 <div>
   <a href="https://github.com/michellamello">
