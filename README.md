@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oi, eu sou o Michell! 👋
 
-<!--
-**michellamello/michellamello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando em uma aplicação Django + MongoDB para operações em folha de pagamentos
+- 🌱 Estudo JavaScript, TypeScript, GrapQl, HTML, CSS, C#, Python, Data Engineering, AWS, GCP e interessado em conhecer Ruby. Sou um eterno aprendiz! 😀
+- 👯 Gostaria de colaborar com projetos que possam me ajudar com o aprendizado das tecnologias acima
+- 🤔 Procuro uma oportunidade de desenvolver softwares comerciais ou uma vaga na área de desenvolvimento
+- 💬 Pergunte-me como era o processo de instalação de software no Linux quando não existiam gerenciadores de pacotes! 👴
+- 📫 Como me encontrar: michell.a.mello@pm.me ou no meu <a href="https://www.linkedin.com/in/michell-mello-957433a/">LinkedIn</a>
+- 😄 Pronomes: Ele/ Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/michellamello"><img src="https://github.com/michellamello/github-stats/blob/master/generated/overview.svg"/> <img src="https://github.com/michellamello/github-stats/blob/master/generated/languages.svg"/></a>
+</div>
