@@ -1,16 +1,7 @@
 <a href="https://github.com/michellamello"><img src="https://github.com/michellamello/michellamello/blob/main/header.png"/></a>
 
 Formado em administração de empresas e apaixonado por tecnologia desde sempre, resolvi transformar a paixão em carreira.
-Atualmente estou trabalhando em dois protótipos para possíveis clientes e participando de alguns bootcamps:
-  
-- Gama Academy
-  - Hiring Coders 2ª Edição
-- Digital Innovation One
-  - Cognizant Cloud Data Engineer
-  - Inter Android Developer
-  - Banco Carrefour Data Engineer
-  - Impulso Full Stack Developer
-  - Java Developer
+Atualmente estou trabalhando em dois protótipos para possíveis clientes e participando de alguns bootcamps para aprimorar meus conhecimentos.
 
 Veja <a href="https://github.com/michellamello/curriculo/blob/main/curriculo-pt-br.pdf">aqui</a> meu currículo atualizado e <a href="https://github.com/michellamello/curriculo/tree/main/Certificados">aqui</a> meus certificados.
 
