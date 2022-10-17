@@ -2,7 +2,7 @@
 
 Graduated in business administration, currently a data science post-graduation also a systems development student.
 
-I'm in love for technology since my early years, recently decided to turn the passion in a career.
+I'm in love for technology since my early years, recently decided to turn my passion into a career.
 
 See <a href="https://github.com/michellamello/curriculo/blob/main/resume-eng.html">here</a> my updated resume.
 
