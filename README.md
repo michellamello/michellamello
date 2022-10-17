@@ -2,7 +2,7 @@
 
 Bachelorate in business administration, currently a data science graduate also a systems development associates.
 
-I'm in love with technology since my early years, recently decided to turn my passion into a career.
+I'm in love with technology since my early years, decided to turn my passion into a career.
 
 See <a href="https://michellamello.github.io/curriculo/">here</a> my updated resume.
 
