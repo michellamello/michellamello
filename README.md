@@ -4,7 +4,7 @@ Graduated in business administration, currently a data science post-graduation a
 
 I'm in love with technology since my early years, recently decided to turn my passion into a career.
 
-See <a href="https://github.com/michellamello/curriculo/blob/main/resume-eng.html">here</a> my updated resume.
+See <a href="https://michellamello.github.io/curriculo/">here</a> my updated resume.
 
 #### How to find me:
 <a href="https://www.linkedin.com/in/michell-mello/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
