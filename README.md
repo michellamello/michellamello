@@ -1,11 +1,12 @@
 <a href="https://github.com/michellamello"><img src="https://github.com/michellamello/michellamello/blob/main/header.png"/></a>
 
-Formado em administração de empresas e apaixonado por tecnologia desde sempre, resolvi transformar a paixão em carreira.
-Atualmente estou trabalhando em dois protótipos para possíveis clientes e participando de alguns bootcamps para aprimorar meus conhecimentos.
+Graduated in business administration, currently a data science post-graduation also a systems development student.
 
-Veja <a href="https://github.com/michellamello/curriculo/blob/main/resume-eng.html">aqui</a> meu currículo atualizado e <a href="https://github.com/michellamello/curriculo/tree/main/Certificados">aqui</a> meus certificados.
+I'm in love for technology since my early years, recently decided to turn the passion in a career.
 
-#### Como me encontrar:
+See <a href="https://github.com/michellamello/curriculo/blob/main/resume-eng.html">here</a> my updated resume.
+
+#### How to find me:
 <a href="https://www.linkedin.com/in/michell-mello/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <hr>
