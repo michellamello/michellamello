@@ -1,6 +1,6 @@
 <a href="https://github.com/michellamello"><img src="https://github.com/michellamello/michellamello/blob/main/header.png"/></a>
 
-Bachelors in business administration, currently a data science graduate also a systems development associates.
+Bachelorate in business administration, currently a data science graduate also a systems development associates.
 
 I'm in love with technology since my early years, recently decided to turn my passion into a career.
 
